@@ -1,0 +1,8 @@
+.env
+Customers/
+.vscode/
+__pycache__/
+Extensions/background.js
+Extensions/manifest.json
+Extensions/proxy.zip
+start.bat
